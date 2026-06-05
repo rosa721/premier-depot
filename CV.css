@@ -85,3 +85,8 @@ p {
 
     transition: transform 0.3s ease;
 }
+.date{
+    display: flex;
+    justify-content: flex-end;
+    color: #17abb3;
+}
